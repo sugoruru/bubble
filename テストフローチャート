@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T10:19:52.611Z" agent="5.0 (Linux; Android 12; XQ-BT44) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36" etag="BekIr8fiCyoRbUm61aqA" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-30T10:25:54.188Z" agent="5.0 (Linux; Android 12; XQ-BT44) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36" etag="4J2cUaoiiaQ7LyWBrEzy" version="20.0.3" type="github">
   <diagram name="Page-1" id="52a04d89-c75d-2922-d76d-85b35f80e030">
-    <mxGraphModel dx="1080" dy="2640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="630" dy="2390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="h57kQU5M1wlHcpWeKCPg-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;英会話&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-850" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h57kQU5M1wlHcpWeKCPg-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;理科2&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry y="-760" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h57kQU5M1wlHcpWeKCPg-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;漢字&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry y="-670" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h57kQU5M1wlHcpWeKCPg-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;文法&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry y="-580" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h57kQU5M1wlHcpWeKCPg-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;数2&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry y="-490" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h57kQU5M1wlHcpWeKCPg-10" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;家庭科&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry y="-400" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
